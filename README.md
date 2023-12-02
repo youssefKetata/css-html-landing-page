@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@youssefKetata](hhttps://www.frontendmentor.io/profile/youssefKetata)
+- Frontend Mentor - [@youssefKetata](https://www.frontendmentor.io/profile/youssefKetata)
